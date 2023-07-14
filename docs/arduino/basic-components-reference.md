@@ -1,17 +1,16 @@
 ## This page contains a reference of several different kinds of circuits. You can combine one or more of them to make a more complex circuit.
 
 ### Button
-<img src="button.png" width="500"/>
-![Button](button.png)
+<img src="button.png" width="600"/>
 
 ### Buzzer/Piezo
-![Buzzer](buzzer.png)
+<img src="buzzer.png" width="600"/>
 
 ### LED
-![LED](led.png)
+<img src="led.png" width="600"/>
 
 ### LED (RGB)
-![LED (RGB)](rgbled.png)
+<img src="rgbled.png" width="600"/>
 
 ### Ultrasonic Sensor
-![Ultrasonic Sensor](ultrasonic.png)
+<img src="ultrasonic.png" width="600"/>
