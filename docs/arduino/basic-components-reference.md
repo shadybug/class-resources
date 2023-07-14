@@ -1,7 +1,7 @@
 ## This page contains a reference of several different kinds of circuits. You can combine one or more of them to make a more complex circuit.
 
 ### Button
-<img src="button.png" width="200"/>
+<img src="button.png" width="500"/>
 ![Button](button.png)
 
 ### Buzzer/Piezo
