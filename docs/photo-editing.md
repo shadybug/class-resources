@@ -17,3 +17,5 @@ Make sure that you save links to every photo you use, so you can credit them lat
 
 ### Day 1
 - [E-Card](https://i.ibb.co/JQ3BHWx/original-image.png)
+### Day 2
+- [Scavenger Hunt](https://raw.githubusercontent.com/shadybug/class-resources/main/docs/photo-editing/Scavenger%20Hunt.png)
