@@ -32,3 +32,7 @@ Make sure that you save links to every photo you use, so you can credit them lat
      - [Horseshoe](https://pixabay.com/photos/horseshoe-iron-old-metal-horse-2662773/)
      - [Silverware](https://pixabay.com/photos/antique-forks-antique-spoons-antique-1405750/)
      - [Gears](https://images.pexels.com/photos/3785935/pexels-photo-3785935.jpeg)
+- Patterns:
+     - [Unsplash](https://unsplash.com/wallpapers/design/pattern)
+     - [Toptal](https://www.toptal.com/designers/subtlepatterns/)
+     - [PatterCooler](https://www.patterncooler.com)
