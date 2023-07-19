@@ -19,3 +19,16 @@ Make sure that you save links to every photo you use, so you can credit them lat
 - [E-Card](https://i.ibb.co/JQ3BHWx/original-image.png)
 ### Day 2
 - [Scavenger Hunt](https://raw.githubusercontent.com/shadybug/class-resources/main/docs/photo-editing/Scavenger%20Hunt.png)
+### Day 3
+- [Tiles](https://unsplash.com/photos/zstWUZFj77w)
+- Robot links:
+     - [TV](https://pixabay.com/photos/tv-television-retro-classic-old-1844964/)
+     - [Keyboard and Mouse](https://pixabay.com/photos/workplace-office-desk-keyboard-2303851/)
+     - [Bolt](https://pixabay.com/photos/bolt-grey-concrete-macro-close-667186/)
+     - [Tools](https://pixabay.com/photos/tools-work-repair-a-hammer-2145770/)
+     - [Watering Can](https://pixabay.com/photos/watering-can-can-garden-to-water-2610032/)
+     - [Wrenches](https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg)
+     - [Screwdriver Nuts](https://pixabay.com/photos/screwdriver-tools-metal-nuts-932494/)
+     - [Horseshoe](https://pixabay.com/photos/horseshoe-iron-old-metal-horse-2662773/)
+     - [Silverware](https://pixabay.com/photos/antique-forks-antique-spoons-antique-1405750/)
+     - [Gears](https://images.pexels.com/photos/3785935/pexels-photo-3785935.jpeg)
