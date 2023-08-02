@@ -6,3 +6,6 @@
 
 ### Day 1
 - [Roblox Studio Demo](https://www.roblox.com/games/6520830870/Roblox-Studio-Demo)
+
+### Day 3
+- [Snowclones](https://www.roblox.com/games/1889273146/Snowclones)
