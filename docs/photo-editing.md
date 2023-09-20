@@ -5,6 +5,7 @@ All photos in this section are **properly licensed** for educational use! This m
 Make sure that you save links to every photo you use, so you can credit them later!
 - [Photos for Class](https://www.photosforclass.com) (Creative Commons)
 - [Pexels](https://www.pexels.com/license/) (Creative Commons)
+- [Unsplash](https://unsplash.com) (Creative Commons)
 - [Open Parks Network](https://openparksnetwork.org) (Public domain)
 - [NASA Images](https://images.nasa.gov) (Public domain)
 - [Pics 4 Learning](https://www.pics4learning.com) (Educational use)
