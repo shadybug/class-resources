@@ -36,7 +36,7 @@ Make sure that you save links to every photo you use, so you can credit them lat
 - Patterns:
      - [Unsplash](https://unsplash.com/wallpapers/design/pattern)
      - [Toptal](https://www.toptal.com/designers/subtlepatterns/)
-     - [PatterCooler](https://www.patterncooler.com)
+     - [PatternCooler](https://www.patterncooler.com)
 ### Day 4
 - [Iconfinder](https://www.iconfinder.com)
 - [Flaticon](https://www.flaticon.com) (limit of 10/day)
