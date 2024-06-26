@@ -28,6 +28,7 @@
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
   - +Extremely powerful, combines VFX/post production/general editing/audio editing into one
   - -May not run at all on some computers
+
 ### Video resources
 All videos in this section are **properly licensed** for educational use! This usually means that they're free to use as long as we edit them somehow. Some require credit.
 Make sure that you save links to every video you use, we'll need to add credits at the end of many of our videos!
