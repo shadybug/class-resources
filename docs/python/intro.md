@@ -31,6 +31,7 @@ Write a Python program that will ask the user to enter a grade. The program shou
 Use the ranges and descriptions in the table below:
 | Grade | Scale  | Description        |
 | ----- | ------ | ------------------ |
+
 | A     | 90-100 | Excellent          |
 | B     | 80-89  | Very Good          |
 | C     | 70-79  | Improvement Needed |
