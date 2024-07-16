@@ -29,6 +29,7 @@ Write a Python program that will ask the user to enter a grade. The program shou
 ```grade = int(input("Please enter your grade (0-100): "))```
 
 Use the ranges and descriptions in the table below:
+
 | Grade | Scale  | Description        |
 | ----- | ------ | ------------------ |
 
