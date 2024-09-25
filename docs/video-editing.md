@@ -36,6 +36,17 @@ Make sure that you save links to every video you use, we'll need to add credits 
 - [Pixabay](https://pixabay.com/videos/) (Free to use without attribution)
 - [Canva](https://pixabay.com/videos/) (Free to use non-pro content without attribution)
 
+### Sound effect resources
+- [Freesound](https://freesound.org)
+- [Pixabay](https://pixabay.com/sound-effects/)
+- [Partners in Rhyme](https://www.partnersinrhyme.com/pir/PIRsfx.shtml)
+
+### Music resources
+- [Free Stock Music](https://www.free-stock-music.com)
+- [Freesound](https://freesound.org)
+- [Pixabay](https://pixabay.com/music/)
+- [Incopetech](https://incompetech.com/music/royalty-free/music.html)
+
 ### Photo resources
 - [Photos for Class](https://www.photosforclass.com) (Creative Commons)
 - [Pexels](https://www.pexels.com/license/) (Creative Commons)
@@ -44,6 +55,10 @@ Make sure that you save links to every video you use, we'll need to add credits 
 - [NASA Images](https://images.nasa.gov) (Public domain)
 - [Pics 4 Learning](https://www.pics4learning.com) (Educational use)
 - [Textures.com](https://www.textures.com) (Free to use without attribution)
+
+### Other programs and resources
+- [Audacity](https://www.audacityteam.org)
+- [Cobalt Tools](https://cobalt.tools)
 
 ### Licenses
 - **Creative Commons:** A group of licenses. Most allow you to use and edit the photos, as long as you credit the original photographers and aren't making money from them!
